@@ -1,5 +1,7 @@
 # HuTCH: Human-Teachable Concept Highlighter for Post-hoc Visual Explanations
 
+![Overview of HuTCH](./misc/workflow.jpg)
+
 Create a conda environment based on the provided `requirements.txt` or the `HuTCH.yml` file.
 
 This project is structured in two phases.
