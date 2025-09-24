@@ -136,11 +136,6 @@ The entire workflow relies on several key folders that must be created and popul
 * **Input**: Images from `super_blackened_images/` and `super_segmented_images/`.
 * **Output**: Pickled dictionaries containing the activations for each image, saved in `name_activation_dict_blackened/` and `name_activation_dict_segmented/`.
 
----
-### `4_AllinOne_create_sub_images_and_calculate_activations_of_them.py`
-* **Purpose**: **(Optional)** This script combines the functionality of `4_1`, `4_2`, and `4_3` into a single file. It is a less modular alternative to running those three scripts sequentially.
-* **Input**: Cleaned images from `images_to_highlight_for_computer_clean/`.
-* **Output**: Final activation dictionaries in `name_activation_dict_blackened/` and `name_activation_dict_segmented/`.
 
 ---
 ### `5_show_highlights.py`
