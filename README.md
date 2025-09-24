@@ -36,6 +36,8 @@ The scripts are numbered and must be run in order.
 * **Input**: JSON files from `CommonNamesFilteredObservations/`
 * **Output**: Image files in `TrainImages_large/` and count summaries in `AllDatasetInfo/`
 
+NOTE: We don't run these scripts manually, instead we use the `ImageDownloadParallelScript.sh` script to create a python file for each of the bee or wasp groups so that we can run them all in parallel and save on downloading time.
+
 ---
 ### `8_SortDatasetInfo.py`
 * **Purpose**: A utility script to alphabetically sort the species and image counts in the info files.
