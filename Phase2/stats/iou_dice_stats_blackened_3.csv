@@ -1,0 +1,3 @@
+base_name,metric,mean,std,ci95
+Image,iou,0.398,0.157,0.029
+Image,dice,0.55,0.171,0.031
