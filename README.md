@@ -94,6 +94,9 @@ The entire workflow relies on several key folders that must be created and popul
 * **What it is**: This folder acts as a **label map** for the model's predictions. It should contain subdirectories with the names of the classes the original model was trained on (e.g., a folder named `bee` and another named `wasp`). The content of these folders doesn't matter, only their names.
 * **Why it's needed**: In Phase 2, script `5_show_highlights.py` first predicts the class of an image (e.g., "bee"). It then uses the folder names in `TestImages` to map the prediction index (e.g., 0) to a class name ("bee"). This class name is then used to decide which concept to highlight (e.g., "fur" for bees).
 
+
+---
+
 ### `1_option1...` OR `1_option2_..._augmentation...`
 * **Purpose**: Augments the positive and negative concept images by applying a series of rotations, scales, and flips to increase the dataset size.
 * **Note**: These are alternatives. Choose **`option1`** for fewer augmentations (8 per image) or **`option2`** for a more comprehensive set (24 per image).
