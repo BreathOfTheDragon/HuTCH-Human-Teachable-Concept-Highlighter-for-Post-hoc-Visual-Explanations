@@ -22,6 +22,8 @@ The scripts are numbered and must be run in order.
 * **Input**: `CommonNamesRaw/{taxon}.txt`
 * **Output**: `CommonNamesFiltered/{taxon}_filtered.txt`
 
+Note: This gives a long list of bee and wasp names to work with. We then manually keep the ones we are interested in, and discard the ones we are not.
+
 ---
 ### `2_GetColoradoCommonNamesFilteredObservations.py`
 * **Purpose**: Downloads observation metadata (e.g., photo URLs) as JSON files from the iNaturalist API for the filtered species.
