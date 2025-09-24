@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+         bee       0.98      0.95      0.96     34022
+        wasp       0.95      0.98      0.97     34481
+
+    accuracy                           0.96     68503
+   macro avg       0.96      0.96      0.96     68503
+weighted avg       0.96      0.96      0.96     68503

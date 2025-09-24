@@ -1,0 +1,17 @@
+Aerial Yellowjackets:17531
+Alaska Yellowjacket:9245
+Bald-faced Hornet:16501
+Black Mud Wasp:17140
+Blackjacket:17056
+Common Aerial Yellowjacket:17999
+European Paper Wasp:17621
+Golden Paper Wasp:12386
+Ground Yellowjackets:14509
+Paper Wasps:16894
+Potter and Mason Wasps:18271
+Prairie Yellowjacket:1661
+Typical Paper Wasps:14987
+Water-walking wasp:1690
+Western Paper Wasp:3997
+Western Yellowjacket:17812
+Yellow Paper Wasp:14621

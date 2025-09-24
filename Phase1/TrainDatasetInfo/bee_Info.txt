@@ -1,0 +1,23 @@
+California Bumble Bee:12532
+Chimney Bees:15605
+Colorado Black-notched Bumble Bee:1676
+Common Digger Bees:12271
+Forest Bumble Bee:3741
+Golden-belted Bumble Bee:887
+Great Basin Bumble Bee:6069
+Honey Bees:15057
+Hunt's Bumble Bee:19454
+Indiscriminate Cuckoo Bumble Bee:5579
+Morrison's Bumble Bee:2236
+Nevada Bumble Bee:10305
+Oblique Longhorn:5116
+Plasterer Bees:23044
+Southern Plains Bumble Bee:4601
+Sunflower Chimney Bee:2244
+Sunflower Mining Bee:1235
+Tansy Mustard Sweat Bee:3740
+Western Bumble Bee:4808
+Western Honey Bee:14896
+Western Leafcutter Bee:6048
+White-shouldered Bumble Bee:4007
+Yellow-Fronted Bumble Bee:17719
